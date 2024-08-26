@@ -19,6 +19,7 @@ Feeling proud of the insights generated and the learning experience! Looking for
 ---
 
 **Explore the Project: [Power BI Report Link] (https://shorturl.at/AF4ew)**
+**[PPT Link] (https://shorturl.at/NExCX)**
 
 **Tags:** `Data Science` `Power BI` `Resume Project` `EV Market` `Atliq Motors` `Learning Journey`
 
